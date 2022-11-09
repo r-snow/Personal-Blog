@@ -33,7 +33,11 @@ export default function Home({ allPostsData }) {
                 <p>
                     Hello, I'm Ryan. I'm a software engineer. You can contact me
                     on
-                    <a href="https://twitter.com/ford_prefect_lx"> Twitter</a>.
+                    <a href="https://www.linkedin.com/in/snow-ryan/">
+                        {" "}
+                        LinkedIn
+                    </a>
+                    .
                 </p>
             </section>
             <section
